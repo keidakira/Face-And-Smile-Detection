@@ -4,4 +4,4 @@ This application is pretty simple and straight forward
 Follow the steps as follows:
 1. Install Python 3.6.x
 2. Install pip
-3. Install OpenCV using 'pip install opencv-python'
+3. Install OpenCV using `pip install opencv-python`
